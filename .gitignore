@@ -1,5 +1,6 @@
 .idea
 *.pyc
 *.log
-.screenshots/
+config.ini
+screenshots
 __pycache__
